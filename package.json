@@ -1,0 +1,16 @@
+{
+  "name": "test-fastify-typescript-server",
+  "version": "1.0.0",
+  "description": "This example repo checks if bundled typings are available when using Fastify",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trivikram Kamat",
+  "license": "ISC",
+  "devDependencies": {
+    "cors": "^2.8.4",
+    "fastify": "^0.39.1",
+    "typescript": "^2.6.2"
+  }
+}
